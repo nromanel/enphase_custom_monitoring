@@ -25,7 +25,7 @@ I picked up a 20x4 LCD Module - https://www.amazon.com/gp/product/B01GPUMP9C
 Making the same call to the production.json endpoint, and generating a view of the current state of production:
 eg:
 
-08/25/2022  16:00:00   <--- Timestamp
-Now:  4000w    6000w   <--- First Number is your current consumption, second is generation
-kWh:  35.07     49.2   <--- Today's kwH consumed and generated
-Usage Gen:     14.11   <--- A positive number is what you've exported onto the grid.
+    08/25/2022  16:00:00   <--- Timestamp
+    Now:  4000w    6000w   <--- First Number is your current consumption, second is generation
+    kWh:  35.07     49.2   <--- Today's kwH consumed and generated
+    Usage Gen:     14.11   <--- A positive number is what you've exported onto the grid.
