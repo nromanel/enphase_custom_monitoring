@@ -20,6 +20,8 @@ I'm kicking it off every 10 seconds
 
 The attached is good ol-fashioned Splunk Dashboard XML.
 
+![Splunk Dashboard](./dashboard.png)
+
 ## 3. RaspberryPi LCD Desktop Display - envoy_to_lcd.py
 
 The solution would not be complete without having a quick real-time view into my solar generation.
