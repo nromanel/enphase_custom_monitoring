@@ -37,4 +37,4 @@ eg:
 
 You might be tempted to lower the refresh time, however I found I would end up DOS'ing the enphase unit, and it would fail to respond on the Web UI.
 
-![LCD](./lcd.png)
+![LCD](./lcd.jpg)
