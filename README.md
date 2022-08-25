@@ -1,7 +1,7 @@
 # enphase_custom_monitoring
 This repo contains some little snippets for the custom monitoring of my Solar instllation which uses an "Enphase IQ Combiner 3"
 
-## 1. Splunk Data Collection - solar_collect.py
+## 1. Splunk Data Collection - envoy_to_splunk.py
 
 The Enphase combiner has an unauthenticated landing page.
 Interrogating it via DevTools, we can see an Ajax call is made to this endpoint: http://enphase_ip/production.json
@@ -20,7 +20,7 @@ I'm kicking it off every 10 seconds
 
 The attached is good ol-fashioned Splunk Dashboard XML.
 
-## 3. RaspberryPi LCD Desktop Display - solar_lcd.py
+## 3. RaspberryPi LCD Desktop Display - envoy_to_lcd.py
 
 The solution would not be complete without having a quick real-time view into my solar generation.
 I picked up a 20x4 LCD Module - https://www.amazon.com/gp/product/B01GPUMP9C
